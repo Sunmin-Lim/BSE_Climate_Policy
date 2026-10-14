@@ -1,0 +1,12 @@
+country_code,coding_basis_draft,years_coded_0,years_coded_1,years_missing,first_year_coded_1
+AUS,Australia CPM (2012–2013); 2014 transition year left missing,17,2,1,2012
+CAN,Federal carbon pricing from 2019,19,1,0,2019
+DEU,EU ETS from 2005,5,15,0,2005
+ESP,EU ETS from 2005,5,15,0,2005
+FRA,EU ETS from 2005,5,15,0,2005
+GBR,EU ETS from 2005,5,15,0,2005
+IRL,EU ETS from 2005,5,15,0,2005
+ITA,EU ETS from 2005,5,15,0,2005
+MEX,National carbon tax from 2014,14,6,0,2014
+NZL,New Zealand ETS from 2008,8,12,0,2008
+USA,State-level policies excluded from this draft definition,20,0,0,

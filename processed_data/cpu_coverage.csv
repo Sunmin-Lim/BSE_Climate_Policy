@@ -1,0 +1,12 @@
+country_code,total_years,available_years,missing_values
+AUS,20,20,0
+CAN,20,16,4
+DEU,20,19,1
+ESP,20,20,0
+FRA,20,19,1
+GBR,20,20,0
+IRL,20,17,3
+ITA,20,20,0
+MEX,20,16,4
+NZL,20,20,0
+USA,20,20,0

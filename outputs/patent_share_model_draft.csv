@@ -1,0 +1,4 @@
+,coefficient,standard_error,p_value
+CarbonPrice_draft,0.3668,0.3149,0.2711
+CPU_10c,-0.0299,0.0605,0.6321
+CarbonPrice_draft:CPU_10c,0.03,0.0613,0.6349

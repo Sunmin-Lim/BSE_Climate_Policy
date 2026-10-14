@@ -1,0 +1,10 @@
+outcome,CPU_timing,interaction_coefficient,observations
+renewable_share,same_year,0.1410000249458211,184
+log_climate_patents,same_year,0.0026244578747546057,184
+carbon_intensity,same_year,-3.478377076874487e-05,184
+renewable_share,lag_1_year,0.16376485764103074,184
+log_climate_patents,lag_1_year,0.005244754836221652,184
+carbon_intensity,lag_1_year,-0.0003980535489547742,184
+renewable_share,lag_2_years,0.14486088052247797,184
+log_climate_patents,lag_2_years,0.00444580413674911,184
+carbon_intensity,lag_2_years,-0.00017303837003020996,184
